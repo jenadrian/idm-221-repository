@@ -38,3 +38,8 @@ Temporary Items
 *.png
 *.gif
 graphics
+
+### Documents ###
+*.pdf
+*.doc
+*.docx
